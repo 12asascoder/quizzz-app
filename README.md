@@ -1,4 +1,4 @@
-# Interactive Quiz App ❓
+# Interactive Quiz App 
 
 A dynamic single-page quiz application built with React that tests users' knowledge with multiple-choice questions.
 ---------------------------------------------------------------------------------------------------------------------------
